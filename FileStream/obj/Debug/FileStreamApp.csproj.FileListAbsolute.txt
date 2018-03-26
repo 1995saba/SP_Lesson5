@@ -1,0 +1,6 @@
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson5\FileStream\bin\Debug\FileStream.exe.config
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson5\FileStream\bin\Debug\FileStream.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson5\FileStream\bin\Debug\FileStream.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson5\FileStream\obj\Debug\FileStreamApp.csprojResolveAssemblyReference.cache
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson5\FileStream\obj\Debug\FileStream.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson5\FileStream\obj\Debug\FileStream.pdb
